@@ -1,0 +1,86 @@
+branch_code,branch_name,region,branch_opened_year,branch_tier
+BXE100,Brindlecore Markbury Branch,Midwest,2023,Tier 2 - Standard
+BR1001,Brindlecore Port Sheila Branch,Southeast,2005,Tier 1 - Flagship
+BR1002,Brindlecore Thomasside Branch,Southwest,2007,Tier 2 - Standard
+BR1003,Brindlecore East Angela Branch,West Coast,2002,Tier 1 - Flagship
+BR1004,Brindlecore Port Joshuafort Branch,Northeast,2006,
+BR1005,Brindlecore Port Lisa Branch,Southeast,2003,
+BR1006,Brindlecore Whitemouth Branch,Midwest,2003,Tier 3 - Satellite
+BR1007,Brindlecore North Andreaview Branch,Northeast,2001,Tier 3 - Satellite
+BR1008,Brindlecore Harrisborough Branch,Southwest,2015,Tier 2 - Standard
+BR1009,Brindlecore North Meganside Branch,Southeast,2005,Tier 1 - Flagship
+BR1010,Brindlecore Larsonside Branch,Southeast,2000,
+BR1011,Brindlecore North Maryborough Branch,Mountain,2017,Tier 1 - Flagship
+BR1012,Brindlecore Melissaville Branch,Mountain,2001,Tier 2 - Standard
+BR1013,Brindlecore Wilcoxside Branch,Midwest,2021,Tier 1 - Flagship
+BR1014,Brindlecore West Seanside Branch,West Coast,2001,
+BXN115,Brindlecore West Sharonton Branch,West Coast,2024,Tier 1 - Flagship
+BR1016,Brindlecore Potterhaven Branch,Southwest,2006,Tier 1 - Flagship
+BR1017,Brindlecore East Ashley Branch,West Coast,2009,Tier 1 - Flagship
+BXW118,Brindlecore Rojasfurt Branch,West Coast,2024,Tier 2 - Standard
+BR1019,Brindlecore North Brettton Branch,West Coast,2005,
+BR1020,Brindlecore Kathleenchester Branch,Mountain,2010,Tier 2 - Standard
+BR1021,Brindlecore West Valerieshire Branch,Southwest,2022,Tier 1 - Flagship
+BR1022,Brindlecore Brownfort Branch,Northeast,1999,
+BR1023,Brindlecore East Kennethland Branch,Northeast,2018,Tier 3 - Satellite
+BR1024,Brindlecore Port Toddstad Branch,Southwest,2022,Tier 1 - Flagship
+BR1025,Brindlecore Johnstonton Branch,West Coast,2006,
+BR1026,Brindlecore Thomastown Branch,Mountain,1999,
+BXN127,Brindlecore East Christophermouth Branch,Southeast,2024,Tier 3 - Satellite
+BR1028,Brindlecore Port Peterfort Branch,Northeast,2014,Tier 1 - Flagship
+BXW129,Brindlecore Port Derekview Branch,Midwest,2024,
+BR1030,Brindlecore Port Mary Branch,Northeast,2016,Tier 1 - Flagship
+BXW131,Brindlecore East Edward Branch,Southeast,2023,Tier 1 - Flagship
+BR1032,Brindlecore Port Jesushaven Branch,Northeast,2020,Tier 2 - Standard
+BR1033,Brindlecore Rasmussenshire Branch,Mountain,2000,
+BR1034,Brindlecore Burnsview Branch,Southwest,2001,
+BR1035,Brindlecore South Christyport Branch,Southeast,2001,Tier 2 - Standard
+BR1036,Brindlecore Keithborough Branch,Southeast,2006,Tier 1 - Flagship
+BR1037,Brindlecore New Tomton Branch,Southeast,2003,Tier 2 - Standard
+BR1038,Brindlecore Lake Donaldland Branch,Northeast,1998,Tier 2 - Standard
+BR1039,Brindlecore New Jamesland Branch,West Coast,2019,
+BR1040,Brindlecore Martinfurt Branch,Mountain,2016,
+BR1041,Brindlecore Stevefort Branch,West Coast,2013,Tier 3 - Satellite
+BR1042,Brindlecore Leechester Branch,Northeast,2017,
+BR1043,Brindlecore Justinland Branch,Southwest,2017,Tier 3 - Satellite
+BR1044,Brindlecore Leslieborough Branch,Midwest,2015,Tier 3 - Satellite
+BR1045,Brindlecore Tarafort Branch,Southeast,2012,Tier 1 - Flagship
+BR1046,Brindlecore Gordonfurt Branch,Southwest,2016,Tier 1 - Flagship
+BR1047,Brindlecore Nicholasside Branch,Northeast,1999,Tier 2 - Standard
+BR1048,Brindlecore Saraview Branch,Northeast,1998,Tier 1 - Flagship
+BR1049,Brindlecore East Devinton Branch,Southeast,2014,Tier 1 - Flagship
+BR1050,Brindlecore Port Brianna Branch,Southwest,2022,Tier 2 - Standard
+BR1051,Brindlecore New Andrewshire Branch,Mountain,2001,
+BR1052,Brindlecore Lake Heatherberg Branch,Southwest,2007,
+BR1053,Brindlecore Lauramouth Branch,Mountain,2015,
+BR1054,Brindlecore Lake Zacharyshire Branch,Mountain,2004,
+BR1055,Brindlecore Millerport Branch,Midwest,2006,Tier 1 - Flagship
+BR1056,Brindlecore West Shawntown Branch,Midwest,2014,Tier 3 - Satellite
+BR1057,Brindlecore South Kaitlynberg Branch,Midwest,2004,Tier 3 - Satellite
+BR1058,Brindlecore Sullivanside Branch,Mountain,2022,
+BR1059,Brindlecore South Adamton Branch,Mountain,2021,
+BR1060,Brindlecore Normanton Branch,West Coast,2014,
+BR1061,Brindlecore Lisaview Branch,Southwest,2006,Tier 3 - Satellite
+BR1062,Brindlecore New Patricia Branch,Midwest,2000,Tier 1 - Flagship
+BR1063,Brindlecore North Brandonfurt Branch,Southeast,2002,Tier 3 - Satellite
+BXN164,Brindlecore East Joanborough Branch,Southeast,2023,Tier 1 - Flagship
+BR1065,Brindlecore Markbury Branch,Northeast,2014,Tier 1 - Flagship
+BR1066,Brindlecore South Barbara Branch,Mountain,2018,Tier 2 - Standard
+BR1067,Brindlecore Mclaughlinside Branch,Southeast,2006,Tier 3 - Satellite
+BR1068,Brindlecore South Heather Branch,Mountain,1999,
+BR1069,Brindlecore Port Christina Branch,Mountain,2000,Tier 3 - Satellite
+BR1070,Brindlecore Dawnmouth Branch,Midwest,2000,
+BR1071,Brindlecore Tammiechester Branch,West Coast,2018,Tier 1 - Flagship
+BR1072,Brindlecore New Vincent Branch,Southwest,1999,Tier 2 - Standard
+BR1073,Brindlecore West Michael Branch,Southwest,2013,Tier 1 - Flagship
+BR1074,Brindlecore East Melvin Branch,Northeast,2011,Tier 1 - Flagship
+BR1075,Brindlecore Port Joseph Branch,Southwest,1999,Tier 2 - Standard
+BR1076,Brindlecore Carterfort Branch,Mountain,1999,Tier 3 - Satellite
+BXE177,Brindlecore Lake Sherri Branch,Mountain,2024,Tier 2 - Standard
+BR1078,Brindlecore Matthewsland Branch,Mountain,2015,Tier 1 - Flagship
+BR1079,Brindlecore Keithtown Branch,Northeast,2000,
+BR1080,Brindlecore Brandichester Branch,Mountain,2014,Tier 1 - Flagship
+BR1081,Brindlecore Vazquezville Branch,Mountain,2003,
+BR1082,Brindlecore Ballardside Branch,West Coast,2004,Tier 3 - Satellite
+BR1083,Brindlecore Thomasfurt Branch,Southwest,2008,Tier 2 - Standard
+BR1084,Brindlecore South Paul Branch,Southwest,2004,

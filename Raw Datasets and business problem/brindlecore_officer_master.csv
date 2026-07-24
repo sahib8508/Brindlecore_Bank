@@ -1,0 +1,341 @@
+officer_id,officer_name,branch_code,officer_role,hire_date
+OFC2000,Lisa Green,BR1072,credit officer,2025-02-04
+OFC2001,Duane Dixon,BR1051,Credit Officer,2017-09-27
+OFC2002,Laura Price,BR1078,Branch Manager,30/03/2024
+OFC2003,Derek Osborn,BR1043,credit officer,2013-02-04
+OFC2004,Bryce Hale,BXN164,,27/07/2013
+OFC2005,Kenneth Cooper,BR1082,Relationship Manager,27/10/2024
+OFC2006,Mary Mejia,BR1045,Relationship Manager,2013-06-21
+OFC2007,Michael Kennedy,BR1044,Relationship Manager,19/12/2012
+OFC2008,Crystal Cortez,BR1067,credit officer,06/10/2019
+OFC2009,Tara Rodriguez,BR1038,credit officer,2025-07-09
+OFC2010,Ann Brown,BR1012,credit officer,2016-07-28
+OFC2011,Jared Jones,BR1035,Branch Manager,2014-04-10
+OFC2012,David Gilmore,BR1001,Branch Manager,20/05/2021
+OFC2013,Rebecca Farley,BR1055,,16/08/2021
+OFC2014,Justin Lewis,BR1051,Credit Officer,19/06/2016
+OFC2015,Patrick Nichols,BR1069,Branch Manager,11/11/2018
+OFC2016,Jerry Barrett,BR1062,credit officer,2024-10-14
+OFC2017,John Oconnor,BR1049,credit officer,20/09/2021
+OFC2018,Anne Jackson,BR1078,Branch Manager,2020-07-04
+OFC2019,Robert Romero,BR1076,Branch Manager,08/12/2015
+OFC2020,Todd Diaz,BR1056,,17/12/2015
+OFC2021,Alyssa Johnson,BR1072,Credit Officer,2024-11-28
+OFC2022,Vincent Mckenzie,BR1049,Branch Manager,28/11/2011
+OFC2023,Tiffany Blair,BR1084,Branch Manager,2021-01-02
+OFC2024,Lance Espinoza,BR1044,Branch Manager,2015-01-06
+OFC2025,Tim Hinton,BXN115,credit officer,2020-08-11
+OFC2026,Kenneth White MD,BR1021,Credit Officer,03/11/2024
+OFC2027,Allen Johnson,BR1073,Branch Manager,08/12/2013
+OFC2028,Tonya Henry,BR1045,Credit Officer,25/05/2019
+OFC2029,Sandra Henderson,BR1017,Relationship Manager,10/03/2024
+OFC2030,Lisa Whitehead,BR1054,Credit Officer,26/01/2012
+OFC2031,Julia Baxter,BR1075,Credit Officer,09/01/2013
+OFC2032,Justin Adams,BXW129,Relationship Manager,2015-09-15
+OFC2033,Tracy Richardson,BR1061,Credit Officer,15/04/2023
+OFC2034,Christopher Adams,BR1002,Credit Officer,2014-09-04
+OFC2035,Gerald Banks,BR1007,Branch Manager,03/05/2019
+OFC2036,Nicole Trevino,BR1059,Branch Manager,02/03/2014
+OFC2037,Amanda Mann,BR1068,Credit Officer,2022-08-19
+OFC2038,Maria Lewis,BR1065,Branch Manager,2017-02-04
+OFC2039,Eric Rodriguez,BR1074,Credit Officer,2016-04-23
+OFC2040,Mark Marshall,BR1022,,2015-01-05
+OFC2041,James Anderson,BR1035,Branch Manager,29/05/2022
+OFC2042,Kevin Taylor,BR1006,,2017-06-11
+OFC2043,Marcus Allen,BR1066,Relationship Manager,20/02/2023
+OFC2044,Jon Miller,BR1081,credit officer,10/04/2016
+OFC2045,Courtney Klein,BXW131,Credit Officer,19/02/2017
+OFC2046,Veronica Gonzalez,BR1057,credit officer,28/01/2012
+OFC2047,Steven Rodriguez,BR1075,credit officer,2019-04-01
+OFC2048,Laurie Villa,BR1047,Relationship Manager,2020-01-06
+OFC2049,Kelly Krause,BR1081,credit officer,2013-11-15
+OFC2050,Michael Villanueva,BR1036,,05/01/2019
+OFC2051,Jason Lang,BR1033,Branch Manager,19/06/2024
+OFC2052,Charles Warren,BR1046,Branch Manager,2021-11-07
+OFC2053,Alan Phelps,BR1003,Credit Officer,2017-03-31
+OFC2054,Scott Ware,BR1071,Relationship Manager,2012-02-14
+OFC2055,Crystal Brown,BR1054,Credit Officer,2020-03-15
+OFC2056,Eric Carter,BR1054,Relationship Manager,16/09/2017
+OFC2057,Russell Stewart,BXW131,Branch Manager,01/06/2024
+OFC2058,Evan Byrd,BR1030,Credit Officer,21/09/2015
+OFC2059,Matthew Howard,BR1062,,30/03/2025
+OFC2060,Lori Smith,BR1023,credit officer,30/07/2018
+OFC2061,Samuel Cline,BR1052,Relationship Manager,2024-08-22
+OFC2062,Amy Newton,BR1003,Credit Officer,2022-03-19
+OFC2063,Eric Santiago,BR1021,Credit Officer,09/09/2023
+OFC2064,Lauren Smith,BR1062,Branch Manager,31/10/2023
+OFC2065,Mr. Matthew Ayers,BR1065,Credit Officer,16/10/2016
+OFC2066,Angela Cooke,BR1054,,2018-12-29
+OFC2067,Janet Heath,BR1078,credit officer,2024-04-01
+OFC2068,Jacob Maldonado,BR1017,Branch Manager,25/03/2023
+OFC2069,Paul Malone,BR1023,Credit Officer,2022-01-30
+OFC2070,Jennifer Cohen,BR1071,Branch Manager,14/09/2023
+OFC2071,Connor Greene,BR1014,Branch Manager,02/05/2023
+OFC2072,Anna Kennedy,BR1001,Relationship Manager,22/05/2014
+OFC2073,Daniel Kelley,BR1034,credit officer,2014-01-17
+OFC2074,Paula Wood,BR1052,Branch Manager,16/01/2020
+OFC2075,Caitlin Anderson,BR1022,Credit Officer,17/11/2016
+OFC2076,Andrew Richards,BR1023,Credit Officer,2012-12-05
+OFC2077,Tammy Watkins,BR1055,credit officer,2017-06-21
+OFC2078,Michele Garza,BR1050,Relationship Manager,2023-07-11
+OFC2079,Willie Martinez,BR1039,Credit Officer,24/09/2013
+OFC2080,Gregory Little,BR1039,Relationship Manager,11/11/2014
+OFC2081,Anthony Allison,BXW131,,18/03/2020
+OFC2082,Shelia Holmes,BR1050,Credit Officer,2018-06-08
+OFC2083,Keith Moore,BR1003,Credit Officer,2015-05-21
+OFC2084,Patrick Holloway,BR1017,Branch Manager,27/03/2018
+OFC2085,Holly Mccarty,BR1014,credit officer,11/08/2021
+OFC2086,Kerri Perez,BR1079,Relationship Manager,2012-07-12
+OFC2087,Kevin Scott,BR1067,Relationship Manager,08/06/2017
+OFC2088,Mr. Brian Reese PhD,BR1011,Branch Manager,2025-07-19
+OFC2089,Ashley Monroe,BR1055,credit officer,01/10/2015
+OFC2090,Francisco Jenkins,BR1050,Credit Officer,2019-03-01
+OFC2091,William Evans,BR1026,Credit Officer,2017-09-19
+OFC2092,Brian Pruitt,BR1050,credit officer,2021-12-27
+OFC2093,Cody Anderson,BR1012,,2018-07-19
+OFC2094,Latoya Horne,BR1067,,07/10/2023
+OFC2095,Garrett Morrison,BXE177,,2012-04-25
+OFC2096,Jacob Donaldson,BR1021,Branch Manager,28/12/2012
+OFC2097,Leah Hawkins,BR1017,Credit Officer,2022-06-10
+OFC2098,Taylor Brooks,BR1009,Credit Officer,02/08/2022
+OFC2099,Erin Watson,BR1034,credit officer,18/04/2024
+OFC2100,Marc Sawyer,BXW118,,2012-03-13
+OFC2101,Heather Brown,BR1058,Credit Officer,20/05/2018
+OFC2102,Margaret Blevins,BR1058,credit officer,22/06/2025
+OFC2103,Ashley Ramsey,BR1032,Branch Manager,2012-06-27
+OFC2104,William Castro,BXN115,Relationship Manager,21/08/2013
+OFC2105,John Palmer,BR1007,,2020-10-23
+OFC2106,Karen Browning,BR1038,Branch Manager,2018-01-04
+OFC2107,Tammy Fernandez,BR1056,credit officer,2016-08-22
+OFC2108,Jennifer Mooney,BR1055,Branch Manager,2017-09-23
+OFC2109,Stacy Warren,BR1003,Branch Manager,21/02/2024
+OFC2110,Louis Stein,BR1040,Branch Manager,13/08/2020
+OFC2111,Erica Ramirez,BR1003,Branch Manager,10/11/2017
+OFC2112,Mr. Thomas Blair,BR1045,Credit Officer,2012-12-02
+OFC2113,Kelly Hall,BR1080,Credit Officer,05/01/2015
+OFC2114,Mark Williamson,BXN164,credit officer,2018-03-28
+OFC2115,Mike Anderson,BR1043,credit officer,2022-12-08
+OFC2116,Crystal Hodge,BR1072,credit officer,20/09/2024
+OFC2117,Gary Harvey,BR1030,,2024-03-03
+OFC2118,Jodi Hayes,BR1074,Relationship Manager,2017-03-02
+OFC2119,Laurie Smith,BR1050,credit officer,2020-05-02
+OFC2120,Karen Dunn,BR1055,credit officer,08/01/2024
+OFC2121,David Howard,BR1079,Branch Manager,2018-07-05
+OFC2122,Barry Harris,BR1005,Credit Officer,2024-12-23
+OFC2123,Melissa Clarke,BR1048,,30/08/2018
+OFC2124,Stephanie Thomas,BR1001,Relationship Manager,26/06/2025
+OFC2125,Blake Stephens,BR1047,credit officer,26/05/2017
+OFC2126,Lawrence Hill,BR1051,,2016-06-06
+OFC2127,Hector Parrish,BR1053,,30/12/2023
+OFC2128,Brenda Mcmahon,BR1055,Relationship Manager,2016-01-17
+OFC2129,Susan Graham,BR1076,Credit Officer,2021-03-02
+OFC2130,Dennis Barnes PhD,BR1011,credit officer,14/09/2022
+OFC2131,Jonathon Tran,BR1025,Branch Manager,03/01/2021
+OFC2132,Erika Garcia,BR1034,Relationship Manager,12/11/2014
+OFC2133,Christine Brown,BR1070,Relationship Manager,07/01/2021
+OFC2134,Katherine Pierce,BR1016,,30/01/2019
+OFC2135,Joe Davis,BR1045,,2023-12-30
+OFC2136,Phillip Roberts,BR1020,credit officer,2015-07-01
+OFC2137,Brandy Hanson,BR1054,credit officer,26/02/2013
+OFC2138,William Church,BR1023,Credit Officer,2014-09-12
+OFC2139,Michael Nichols,BXN164,,01/03/2023
+OFC2140,Angela Cook,BR1017,Relationship Manager,2020-03-01
+OFC2141,Amy Williams,BR1016,credit officer,2019-07-05
+OFC2142,Nathaniel Jones,BR1083,Relationship Manager,2013-10-26
+OFC2143,Aaron Valdez,BR1044,Relationship Manager,2016-01-12
+OFC2144,David Keith,BR1049,Credit Officer,2011-12-08
+OFC2145,Brett Morris,BR1084,,12/09/2014
+OFC2146,Martha Terry,BR1060,,27/10/2011
+OFC2147,Carlos Brown,BR1060,Credit Officer,2013-10-14
+OFC2148,Matthew Holland,BR1072,Branch Manager,2024-01-14
+OFC2149,Sharon Kelly,BR1061,Branch Manager,2020-12-18
+OFC2150,Julie Shah,BR1007,Credit Officer,2019-06-24
+OFC2151,Anna Alexander,BR1061,Credit Officer,26/10/2023
+OFC2152,Cory Brooks,BR1039,Credit Officer,09/04/2023
+OFC2153,Matthew Kirby,BR1001,,2017-04-01
+OFC2154,Alyssa Contreras,BR1017,Credit Officer,2021-05-30
+OFC2155,Alexa Freeman,BR1061,Branch Manager,2011-11-21
+OFC2156,Amanda Rodriguez,BR1032,Branch Manager,16/06/2013
+OFC2157,Stacey Moore,BR1063,Branch Manager,22/06/2014
+OFC2158,Anthony Gonzalez,BR1014,credit officer,08/02/2025
+OFC2159,Larry Johnson,BR1083,Credit Officer,2013-04-19
+OFC2160,Brianna Jones,BR1005,Branch Manager,2020-06-13
+OFC2161,Stacey Williamson,BXE100,Credit Officer,14/11/2019
+OFC2162,Anita Lewis,BR1059,credit officer,2011-11-25
+OFC2163,Trevor Nelson,BR1069,credit officer,2016-10-04
+OFC2164,Scott Morton,BR1073,Relationship Manager,01/06/2020
+OFC2165,Terrance Miller,BR1056,,28/06/2012
+OFC2166,Tonya Sharp,BR1040,Credit Officer,2017-03-14
+OFC2167,Michele Bartlett,BR1070,Relationship Manager,2016-03-21
+OFC2168,Jennifer King,BR1023,Relationship Manager,16/03/2017
+OFC2169,Susan Ramirez,BR1067,Relationship Manager,2024-03-04
+OFC2170,Craig Baker,BR1020,Branch Manager,2020-03-08
+OFC2171,Jacqueline Pennington,BR1022,Branch Manager,21/09/2019
+OFC2172,Patricia Henderson,BR1006,credit officer,2013-11-21
+OFC2173,Brian Lynch,BR1049,Branch Manager,18/10/2017
+OFC2174,Jacqueline Williamson,BR1022,Credit Officer,2017-01-10
+OFC2175,Andrew Grant,BR1080,Credit Officer,12/03/2023
+OFC2176,Alexandra Fletcher,BR1055,Relationship Manager,08/07/2015
+OFC2177,Todd Franco,BR1009,Branch Manager,03/07/2015
+OFC2178,Aaron Daniels,BR1084,Credit Officer,2013-03-27
+OFC2179,Heather Johnson,BR1079,Credit Officer,2025-01-26
+OFC2180,Chase Hansen,BR1022,,29/05/2013
+OFC2181,Elizabeth Cruz,BR1005,Credit Officer,23/12/2019
+OFC2182,Tyler Acosta,BR1020,credit officer,18/04/2019
+OFC2183,Richard Blake,BR1083,Relationship Manager,2019-06-15
+OFC2184,Kevin Adams,BR1033,credit officer,2023-11-06
+OFC2185,Elizabeth Marshall,BR1032,credit officer,2020-11-19
+OFC2186,Timothy Garcia,BR1004,credit officer,12/11/2019
+OFC2187,Suzanne Becker,BR1065,Credit Officer,2021-05-14
+OFC2188,Joseph Morris,BR1061,Credit Officer,03/05/2015
+OFC2189,Rhonda Ritter,BR1022,credit officer,08/07/2023
+OFC2190,Nancy Garner,BR1069,Branch Manager,30/01/2020
+OFC2191,Rebecca Olson,BR1017,,30/04/2012
+OFC2192,Elizabeth Anderson,BR1051,credit officer,23/06/2014
+OFC2193,Nicholas Lopez,BR1068,,2017-04-22
+OFC2194,Christopher Edwards,BR1055,credit officer,05/12/2020
+OFC2195,Timothy Morgan,BR1082,Relationship Manager,31/12/2020
+OFC2196,Jonathan Green,BR1041,Relationship Manager,30/11/2016
+OFC2197,Dale Levine,BR1057,Relationship Manager,25/02/2021
+OFC2198,Amanda Collins,BR1073,,11/12/2024
+OFC2199,Kara Smith,BR1076,Credit Officer,2013-05-24
+OFC2200,Johnathan Harris,BR1080,Branch Manager,13/12/2011
+OFC2201,James Butler MD,BXW129,,2019-02-24
+OFC2202,Mrs. Suzanne Allen,BR1054,,2020-07-11
+OFC2203,David Poole,BR1061,Relationship Manager,2020-12-31
+OFC2204,Sylvia Holmes,BR1022,Relationship Manager,2019-10-19
+OFC2205,Sandra Butler,BR1042,Relationship Manager,16/01/2017
+OFC2206,Robert Holloway,BR1054,credit officer,30/03/2013
+OFC2207,Jane Oconnor,BR1021,,13/05/2025
+OFC2208,Bobby Graham,BR1076,Relationship Manager,08/01/2021
+OFC2209,Mrs. Lindsay Wilson,BR1082,credit officer,02/12/2013
+OFC2210,Seth Cook,BXE100,,24/10/2022
+OFC2211,Victoria Williams,BR1001,,24/10/2012
+OFC2212,Dylan Glass,BR1070,Branch Manager,11/01/2018
+OFC2213,Melanie Graves,BR1065,Branch Manager,2015-04-07
+OFC2214,Christopher Ochoa,BR1063,credit officer,2015-12-01
+OFC2215,Christopher Cherry,BR1007,Relationship Manager,12/03/2017
+OFC2216,Marvin Williams,BR1026,Credit Officer,30/03/2013
+OFC2217,Christina Donaldson,BR1004,Relationship Manager,2012-01-10
+OFC2218,Robert Arroyo,BR1006,Branch Manager,11/04/2016
+OFC2219,Sierra Frey,BR1020,Credit Officer,03/10/2022
+OFC2220,Susan Anderson,BR1069,Credit Officer,30/07/2014
+OFC2221,Nicholas Johnson,BR1001,Relationship Manager,05/06/2021
+OFC2222,Steven Murray,BR1044,Credit Officer,22/12/2016
+OFC2223,Christopher Marshall,BR1045,credit officer,2022-01-07
+OFC2224,Melissa Parker,BXE177,Branch Manager,25/09/2016
+OFC2225,Mr. William George,BR1002,credit officer,22/03/2016
+OFC2226,Tamara Hart,BR1009,Branch Manager,28/12/2024
+OFC2227,Christopher Murphy,BR1010,Branch Manager,09/01/2023
+OFC2228,William Caldwell,BR1070,,2015-02-23
+OFC2229,Anthony Wilson,BR1041,Credit Officer,2018-10-03
+OFC2230,Johnathan Irwin,BR1001,,2020-04-09
+OFC2231,Shane Robertson,BR1026,Credit Officer,14/12/2019
+OFC2232,Tammy Garner,BR1054,,16/01/2012
+OFC2233,Nancy Smith,BR1057,credit officer,17/01/2013
+OFC2234,Christopher Benson,BR1012,Branch Manager,25/07/2018
+OFC2235,Lauren Patterson,BR1043,,2014-05-21
+OFC2236,Michael Casey,BR1036,Relationship Manager,23/10/2020
+OFC2237,Dr. Erin Johnson,BR1028,Credit Officer,2013-01-23
+OFC2238,Scott Yates,BXW118,,07/12/2023
+OFC2239,Gwendolyn Thomas,BR1014,Branch Manager,11/09/2015
+OFC2240,Anthony Lopez MD,BR1063,Relationship Manager,14/03/2014
+OFC2241,Steven Jones,BR1019,,06/07/2023
+OFC2242,Ashley Torres,BXE177,Branch Manager,2012-04-16
+OFC2243,Michael Gordon,BR1079,Branch Manager,2021-11-26
+OFC2244,Abigail Kennedy,BR1084,Branch Manager,2017-07-13
+OFC2245,Jennifer Miller,BR1005,Relationship Manager,24/07/2013
+OFC2246,Renee Richards,BR1025,Relationship Manager,2019-06-06
+OFC2247,Theodore Reid,BR1009,Relationship Manager,2023-06-25
+OFC2248,Kimberly Robertson,BR1082,Credit Officer,15/02/2012
+OFC2249,Luke Adams,BR1040,credit officer,25/06/2024
+OFC2250,Mrs. Megan Burns,BR1033,Relationship Manager,2017-10-25
+OFC2251,Alison Johnson,BR1023,Relationship Manager,2014-08-14
+OFC2252,Amanda Morales,BR1051,Branch Manager,2016-01-29
+OFC2253,Denise Watkins,BR1081,,2014-09-06
+OFC2254,Nancy Sanchez,BXW131,Credit Officer,2013-10-07
+OFC2255,Matthew Bernard,BR1030,Relationship Manager,2015-03-03
+OFC2256,Samuel Allen,BR1032,Relationship Manager,15/11/2016
+OFC2257,Ashley Rivera PhD,BR1083,Relationship Manager,18/03/2012
+OFC2258,Ruth Sharp,BR1045,Credit Officer,21/07/2016
+OFC2259,Belinda Young,BR1037,,2021-11-22
+OFC2260,Lisa Moore,BR1012,Branch Manager,08/05/2015
+OFC2261,Dustin Cantu DDS,BR1001,Branch Manager,2024-01-18
+OFC2262,Heather Eaton,BR1047,credit officer,25/06/2015
+OFC2263,Lori Rubio,BR1054,credit officer,2016-07-06
+OFC2264,Carmen Weaver,BR1065,Credit Officer,2012-02-01
+OFC2265,Raymond Durham,BR1062,Credit Officer,13/05/2018
+OFC2266,Matthew Giles,BR1003,Credit Officer,2021-01-27
+OFC2267,Jacqueline Mason,BR1017,credit officer,2011-10-20
+OFC2268,Catherine Garcia,BR1020,Relationship Manager,16/12/2014
+OFC2269,Sharon Elliott,BR1003,Relationship Manager,2019-01-23
+OFC2270,Gregory Mercado MD,BR1038,Relationship Manager,21/02/2019
+OFC2271,Peter Taylor,BR1048,credit officer,19/05/2014
+OFC2272,Jennifer Lane,BXE177,Credit Officer,2020-07-29
+OFC2273,James Shepard,BR1011,,2024-09-02
+OFC2274,Julie Allen,BR1009,Branch Manager,29/05/2015
+OFC2275,Jerome Taylor,BR1082,Credit Officer,2017-07-02
+OFC2276,Jacob Weaver,BR1076,Credit Officer,2016-09-18
+OFC2277,Terri Mack,BXN127,Credit Officer,2024-03-17
+OFC2278,Crystal Rice,BR1059,,28/08/2011
+OFC2279,Gregory Larson,BR1034,credit officer,23/02/2017
+OFC2280,Ann Anderson,BR1006,,2021-06-11
+OFC2281,Judy Brown,BR1005,Credit Officer,2016-12-01
+OFC2282,Jeremiah Johnson,BR1008,,2019-07-11
+OFC2283,Anthony Davis,BR1051,Branch Manager,21/04/2023
+OFC2284,Allison Espinoza,BR1042,,17/11/2017
+OFC2285,Justin Griffin,BR1052,credit officer,16/09/2015
+OFC2286,Douglas Ellis,BR1073,credit officer,2021-04-21
+OFC2287,Michele Harris,BR1035,credit officer,2025-03-07
+OFC2288,Jeffery Gardner,BR1009,,2016-08-14
+OFC2289,Donna Wilson,BR1055,Branch Manager,20/02/2012
+OFC2290,Samantha Rivera,BR1078,,2025-04-27
+OFC2291,Andrew Ryan,BR1047,Branch Manager,27/06/2018
+OFC2292,Mitchell Lamb,BR1040,credit officer,2025-01-16
+OFC2293,Jessica Pierce,BR1057,,2024-07-14
+OFC2294,Shelley Anderson,BR1045,,2013-03-26
+OFC2295,Brandi Perkins,BR1057,,18/01/2021
+OFC2296,Jennifer Cox,BR1047,,2022-01-26
+OFC2297,Sarah Chavez,BR1050,,21/11/2012
+OFC2298,Jacob Roy,BR1004,Credit Officer,04/11/2012
+OFC2299,Aaron Scott,BR1048,Credit Officer,2016-02-03
+OFC2300,Jason Grimes,BR1037,Credit Officer,05/06/2013
+OFC2301,Douglas Henderson,BR1032,Branch Manager,05/06/2015
+OFC2302,Michael Henry,BR1036,Branch Manager,2024-12-26
+OFC2303,Tracy Phillips,BXE100,Credit Officer,2014-04-13
+OFC2304,Matthew Spencer,BXN115,Branch Manager,2016-05-16
+OFC2305,Kurt Stewart,BR1003,Branch Manager,17/05/2023
+OFC2306,Wendy Boone,BR1032,Relationship Manager,01/02/2017
+OFC2307,Stephanie Nguyen,BR1071,Credit Officer,2025-01-20
+OFC2308,Catherine Leach,BR1069,Branch Manager,02/03/2013
+OFC2309,Tanya Washington,BR1049,,21/04/2014
+OFC2310,Deborah Mason,BR1080,,04/10/2022
+OFC2311,David Jordan,BXN115,Credit Officer,2017-10-23
+OFC2312,Robert Hamilton,BR1072,,2015-04-07
+OFC2313,Joe Anderson,BR1075,Branch Manager,03/12/2023
+OFC2314,Dr. Brenda James,BR1035,Branch Manager,2022-09-10
+OFC2315,Richard Avila,BR1059,Relationship Manager,2015-09-27
+OFC2316,Jeremiah Jackson,BR1012,,31/05/2014
+OFC2317,Amanda Hamilton,BR1016,credit officer,14/04/2016
+OFC2318,Natalie Rhodes,BR1011,,15/09/2021
+OFC2319,Barbara Lee,BR1013,Branch Manager,2015-03-27
+OFC2320,Jonathan Brown,BR1083,,18/04/2021
+OFC2321,Teresa Obrien,BR1003,,2024-05-20
+OFC2322,Teresa Moore,BXE177,Branch Manager,27/11/2013
+OFC2323,Karen Wiggins,BR1061,credit officer,2018-09-09
+OFC2324,Jacob Stein,BR1019,Branch Manager,24/07/2022
+OFC2325,Brandon Mcpherson,BR1017,Relationship Manager,24/07/2020
+OFC2326,James Williams,BR1021,Credit Officer,2019-01-20
+OFC2327,Jennifer Wolf,BR1028,credit officer,2017-01-17
+OFC2328,Mitchell Rivera,BR1026,Relationship Manager,2021-11-04
+OFC2329,Nichole Graham,BR1040,credit officer,18/10/2019
+OFC2330,Jack Dominguez,BR1043,,04/08/2014
+OFC2331,Amanda English,BR1041,Branch Manager,18/03/2015
+OFC2332,Misty Hall,BR1033,Branch Manager,27/05/2013
+OFC2333,Christopher Mendez,BR1075,credit officer,2017-01-31
+OFC2334,Karen Dickerson,BXW131,,2023-04-03
+OFC2335,Mary Johnson,BR1045,Branch Manager,10/10/2019
+OFC2336,David Gilbert,BR1065,credit officer,2018-08-30
+OFC2337,Jeffrey Wilson,BR1001,Credit Officer,2012-04-02
+OFC2338,Jennifer Palmer,BXW118,Branch Manager,21/10/2022
+OFC2339,Angela Stevens,BR1035,Relationship Manager,2020-01-14
