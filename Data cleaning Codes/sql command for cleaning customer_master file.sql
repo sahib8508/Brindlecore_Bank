@@ -68,8 +68,8 @@ onboarding_branch_code,
 	END
 ) AS email,
 	(CASE 
-	WHEN phone IS NULL OR TRIM(phone) = 'N/A' THEN 'No phone entered'
-	WHEN phone IS NOT NULL AND regexp_replace()
+    WHEN phone IS NULL OR TRIM(phone) = 'N/A' THEN 'No phone entered'
+    ELSE TRIM(phone)
 	END
 ) AS phone,
 	(CASE 
@@ -86,8 +86,7 @@ onboarding_branch_code,
 ) AS credit_bureau_score
 
 
-FROM customer_master
-
+FROM customer_master;
 
 
 
